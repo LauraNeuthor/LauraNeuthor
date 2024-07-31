@@ -1,6 +1,6 @@
 ---
 title: "LauraNeuthor"
-image: front2.jpg
+image: "Profilbild Forum.jpg"
 page-layout: full
 about:
   template: trestles
