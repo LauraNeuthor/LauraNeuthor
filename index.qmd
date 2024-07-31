@@ -1,5 +1,5 @@
 ---
-title: "LauraNeuthor"
+title: "Laura Neuthor"
 image: "Profilbild Forum.jpg"
 page-layout: full
 about:
