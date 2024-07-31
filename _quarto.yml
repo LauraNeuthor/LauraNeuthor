@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Laura Neuthor"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: blog.qmd
+        text: Blog
+      - href: cv.qmd
+        text: CV
+    right: 
+      - icon: envelope
+        aria-label: email
+        href: "mailto:lauraneuthor@googlemail.com"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/laura-neuthor-51746a213
+      - icon: instagram
+        href: https://www.instagram.com/lalouwoo/
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

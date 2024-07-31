@@ -1,0 +1,29 @@
+---
+title: "LauraNeuthor"
+image: front2.jpg
+page-layout: full
+about:
+  template: trestles
+  image-width: 20em
+  image-shape: round
+  links:
+    - icon: email
+      text: Email
+      href: mailto:lauraneuthor@googlemail.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/laura-neuthor-51746a213
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/lalouwoo/
+---
+
+Hello! My name is Laura Neuthor and I am a currently a Student of the [Master European Studies](https://www.kuwi.europa-uni.de/en/studium-alt/master/es/index.html) at [Europa-University Viadrina](https://www.europa-uni.de/en/index.html). I have a Law Background, as I studied Business Law at [Berlin School of Economics and Law](https://www.hwr-berlin.de/en/) in my undergraduate studies, but am especially passionate about building an interdisciplinary profile to tackle issues on the edge between Economics, Law and Politics. To work towards that goal, I also decided to pursue a second Bachelor's Degree in Economics, which I currently study next to my main program.
+
+For my future job, the most important thing to me is to make the world a little better for people around the world through my work. I am especially interested in the very diverse fields of climate protection and adaptation, peace building, anti-corruption and human rights protection.
+
+I very much enjoy acquiring new knowledge or building new skills which help me to understand the world better. That is why I participated at several summer courses, e.g. the [Applied Peace and Conflict Studies Programme](https://www.europa-uni.de/de/studium/studienangebot/so-viapcs-programm/index.html#application-128808417) at Viadrina University, a course on the European Directive for Corporate Sustainability Due Diligence and on European Politics.
+
+I so far had the amazing opportunities to intern and work at (amongst others) the German Federal Foreign Office and the World Bank. I hope to continue working in International Cooperation in the future.
+
+You can find more Information on my education and work experience in my [CV](/cv). Reading some of my [Blog](/blog) Entries might also give you a better understanding of who I am.
